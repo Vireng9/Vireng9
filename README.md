@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Viren Ghaghada @Vireng9
+- 👋 Hi, I’m Viren Ghaghada @vireng9
 - 👀 I’m interested in creating value, sharing, and learning trading strategies, ML and AI techniques.
 - 🌱 I’m currently learning Algorithmic Trading with extensive use of Quant, ML, AI. 
 - 💞️ I’m looking to collaborate on a) Trading Strategies, b) Research, coding c) Risk Management, d) Leadership, e) Capital Markets
