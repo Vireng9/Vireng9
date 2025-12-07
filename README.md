@@ -1,8 +1,9 @@
-- 👋 Hi, I’m Viren Ghaghada @vireng9
-- 👀 I’m interested in creating value, sharing, and learning trading strategies, application of AI and  ML.
-- 🌱 Focused on Trading, Portfolio Risk Management, Optimization, Market Micro structure
-- 💞️ I’m looking to collaborate on a) Trading Strategies, PRM, Optimization, MMT, Latency, b) Research & coding, c) Risk Management, d) Leadership, e) Capital Markets
-- 📫 Connect with me - [LinkedIn](https://www.linkedin.com/in/virenghaghada) | [Email](mailto:vireng9@yahoo.com) | [GitHub](https://github.com/vireng9) | [My Portfolio](https://vireng9.github.io/)
+**Viren Ghaghada** @vireng9
+
+👋 Passionate Banker, Quant professional and an Entrepreneur with learnings over two decades in credit and market risk, wholesale banking, structured finance, leadership, and Global | Capital markets.  
+👀 Interested in creating value - Trading, Portfolio Risk Management, Optimization, Market Micro Structure, Latency, application of AI and  ML.  
+💞️ Look forward to engaging and collaborating with like-minded people.  
+📫 Connect with me - [LinkedIn](https://www.linkedin.com/in/virenghaghada) | [Email](mailto:vireng9@yahoo.com) | [GitHub](https://github.com/vireng9) | [My Portfolio](https://vireng9.github.io/)
   
   
 <!---
